@@ -1,7 +1,7 @@
 import os
 from mutagen.mp4 import MP4
 
-PATH = "C:/Users/Zanis/Desktop/Java Social Network/Videos"
+PATH = "D:/My Courses/Java Social Network"
 videos = os.listdir(PATH)
 sum = 0
 for video in videos:
